@@ -1,7 +1,7 @@
-# kyle_Review Js_Git
+# Review Js_Git
 
-Name: Le Quang Ky
-Team: Mobile - Flutter
+Name: Lê Ngọc Vĩ
+Team: Front-End
 Onboarding: 04/04/2022
 
 
